@@ -7,6 +7,7 @@ step 1.
 tar -xvf pd-tools-linux-5.0.tar.gz
 ```
 step 2.
+```
 sudo ./install
-
+```
 Enjoy it!
